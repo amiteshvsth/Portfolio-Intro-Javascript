@@ -22,10 +22,7 @@ window.onload = function() {
     'I\'m Amitesh Vashishth',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:amitesh.rwl543@gmail.com">amitesh.rwl543@gmail.com</a>',
-    '<a target="_blank" href="https://twitter.com/Amiteshrawall">twitter.com/Amiteshrawall</a><br>
-    <a target="_blank" href="https://codepen.io/amiteshrawal">codepen.io/amiteshrawal</a><br>
-    <a target="_blank" href="https://github.com/amiteshvashishth">github.com/amiteshvashishth</a><br>
-    <a target="_blank" href="https://amiteshvsth.github.io/My-Portfolio">github.io/Amitesh</a>',
+    '<a target="_blank" href="https://twitter.com/Amiteshrawall">twitter.com/Amiteshrawall</a><br><a target="_blank" href="https://codepen.io/amiteshrawal">codepen.io/amiteshrawal</a><br><a target="_blank" href="https://github.com/amiteshvashishth">github.com/amiteshvashishth</a><br><a target="_blank" href="https://amiteshvsth.github.io/My-Portfolio">github.io/Amitesh</a>',
     getCurrentTime(),
     '👀 A.'
   ]
