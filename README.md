@@ -1,2 +1,2 @@
 # Intro
-https://amiteshvsth.github.io/Intro-Using-Js/
+https://amiteshvsth.github.io/Portfolio-Intro-Javascript/
