@@ -20,9 +20,10 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Amitesh Vashishth',
-    'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:amitesh.rwl543@gmail.com">amitesh.rwl543@gmail.com</a>',
-    '<a target="_blank" href="https://twitter.com/Amiteshrawall">twitter.com/Amiteshrawall</a><br><a target="_blank" href="https://codepen.io/amiteshrawal">codepen.io/amiteshrawal</a><br><a target="_blank" href="https://github.com/amiteshvsth">github.com/amiteshvsth</a><br><a target="_blank" href="https://amiteshvsth.github.io/My-Portfolio">github.io/Amitesh</a>',
+    'an automation tester who loves making sure products work flawlessly before they reach users.',
+    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:amiteshvashishth@gmail.com">amiteshvashishth@gmail.com</a>',
+    'My portfolio is available at <a target="_blank" href="https://amiteshvsth.github.io/Portfolio-Javascript-2.0/">Portfolio</a>',
+    '<a target="_blank" href="https://twitter.com/Amiteshrawall">twitter</a><br><a target="_blank" href="https://codepen.io/amiteshrawal">codepen</a><br><a target="_blank" href="https://github.com/amiteshvsth">github</a>',
     getCurrentTime(),
     '👀 A.'
   ]
